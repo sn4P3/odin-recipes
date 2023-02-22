@@ -1,1 +1,1 @@
-# odin-recipes
+This project makes a website named recipes which include links to websites having recipes for different dishes.
